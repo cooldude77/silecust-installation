@@ -1,10 +1,9 @@
 {
-    "name": "vendor-name/project-name",
+    "name": "silecust/silecust",
+    "description": "Web Shop that helps you to set up online quickly",
+    "type": "project",
     "require": {
+        "silecust/silecust": "dev-master"
     },
-    "autoload": {
-        "psr-4": {
-            "App\\": "src/"
-        }
-    }
+    "minimum-stability": "dev"
 }
